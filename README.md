@@ -6,8 +6,8 @@ See PDF in this repo
 
 ## Part 2: {ellmer} basics and structured output
 
-Get started with ellmer - [package vignette](https://ellmer.tidyverse.org/articles/ellmer.html)
-Working with structured data - [{ellmer} vignette](https://ellmer.tidyverse.org/articles/structured-data.html)
+- Get started with ellmer - [package vignette](https://ellmer.tidyverse.org/articles/ellmer.html)
+- Working with structured data - [{ellmer} vignette](https://ellmer.tidyverse.org/articles/structured-data.html)
 
 ## Part 3: LLMs in Shiny
 
