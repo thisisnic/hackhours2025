@@ -1,4 +1,4 @@
-NMFS Openscapes HackHours, July 2025
+# NMFS Openscapes HackHours, July 2025
 
 ## Part 1: Experimenting with LLM Applications in R - UseR Talk Preview
 
