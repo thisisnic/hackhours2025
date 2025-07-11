@@ -2,7 +2,9 @@
 
 ## Part 1: Experimenting with LLM Applications in R - UseR Talk Preview
 
-See PDF in this repo
+- [See PDF in this repo](./LLMSinR.pdf)
+- [Social media post generator](https://github.com/thisisnic/socialmediagen)
+- [Arrow mailing list summariser code](https://github.com/arrow-maintenance/arrowdash/tree/main/ml_data)
 
 ## Part 2: {ellmer} basics and structured output
 
@@ -18,7 +20,7 @@ Things to consider:
 - UX and load time
 - API usage costs and risk when deployed
 
-Existing packages:
+In-development packages by Posit:
 
 - [shinychat](https://posit-dev.github.io/shinychat/r/index.html)
 - [querychat](https://posit-dev.github.io/querychat/r/index.html)
