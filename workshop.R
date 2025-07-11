@@ -4,7 +4,11 @@
 
 ### {ellmer} basics
 library(ellmer)
-chat <- chat_github()
+
+chat <- chat_openai()
+# chat <- chat_github() # Works if you have GITHUB_PAT set
+
+chat
 
 # Simple output
 chat$chat("What is the capital of England?")
@@ -42,9 +46,6 @@ chat$chat(
 )
 
 ### Structured outputs
-
-# The chat contains all of our previous answers and so we want to reset it here
-chat <- chat_github()
 
 chat$chat_structured(
   content_image_file("slide_with_url.jpg"),
