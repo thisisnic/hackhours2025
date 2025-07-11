@@ -18,3 +18,8 @@ Things to consider:
 - UX and load time
 - API usage costs and risk when deployed
 
+Existing packages:
+
+- [shinychat](https://posit-dev.github.io/shinychat/r/index.html)
+- [querychat](https://posit-dev.github.io/querychat/r/index.html)
+
