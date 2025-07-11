@@ -15,10 +15,12 @@
 
 Things to consider:
 
+- Careful prompting helps but doesn't guarantee correct outputs
 - Non-deterministic outputs
 - LLM hallucinations
 - UX and load time
 - API usage costs and risk when deployed
+- Some models guard against abuse, but it's still not a guarantee
 
 In-development packages by Posit:
 
