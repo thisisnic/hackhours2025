@@ -1,3 +1,5 @@
+# From shinychat README
+
 library(shiny)
 library(shinychat)
 

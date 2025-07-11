@@ -1,4 +1,6 @@
 library(shiny)
+# From querychat README
+
 library(bslib)
 library(querychat)
 
