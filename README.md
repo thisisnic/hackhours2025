@@ -2,7 +2,7 @@
 
 ## Part 1: Experimenting with LLM Applications in R - UseR Talk Preview
 
-- [See PDF in this repo](./LLMSinR.pdf)
+- [See PDF in this repo](https://github.com/thisisnic/hackhours2025/blob/main/LLMsInR.pdf)
 - [Social media post generator](https://github.com/thisisnic/socialmediagen)
 - [Arrow mailing list summariser code](https://github.com/arrow-maintenance/arrowdash/tree/main/ml_data)
 
